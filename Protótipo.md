@@ -4,5 +4,3 @@ Segundo (Jesus, 2011)A prototipação torna eficiente a aproximação entre o cl
 
 
 ## Referências Bibliográficas
-
--

@@ -5,8 +5,8 @@
 2. - [x] Características
 3. - [x] Vantagens
 4. - [x] Desvantagens
-5. - [ ] Etapas
-6. - [ ] Correção Ortográfica
+5. - [x] Etapas
+6. - [x] Correção Ortográfica
 7. - [ ] Referências 
 
 # Modelo V de Desenvolvimento
@@ -15,7 +15,8 @@
 
 O **Modelo V** é um modelo conceitual de Engenharia de Sistemas/Desenvolvimento de Produto visto como melhoria ao problema de reatividade do [**modelo em cascata**](https://pt.wikipedia.org/wiki/Modelo_em_cascata). Ele permite que, durante a integração de um sistema em seus diversos níveis, os testes sejam feitos contra os próprios requisitos do componente/interface que está sendo testado(a), em contraste com modelos anteriores onde o componente era testado contra a especificação do componente/interface. Notar a diferença entre requisito e especificação.
 
-O **Modelo V** virou um padrão da indústria de software depois de 1980 e, após o surgimento da Engenharia de Sistemas, tornou-se um conceito padrão em todos os domínios da indústria. O mundo do software tinha feito poucos avanços em termos de maturidade, em achar na bibliografia corrente as referências que poderiam se 
+
+O **Modelo V** virou um padrão da indústria de <i>software</i> depois de 1980 e, após o surgimento da [**Engenharia de Sistemas**](https://pt.wikipedia.org/wiki/Engenharia_de_Sistemas), tornou-se um conceito padrão em todos os domínios da indústria. O mundo do <i>software</i> tinha feito poucos avanços em termos de maturidade, em achar na bibliografia corrente as referências que poderiam se 
 aplicar ao sistema.
 
 Um ponto relevante quando se está desenvolvendo software é decidir quando testar e como testar o software ou as partes geradas ao longo de seu desenvolvimento. A escolha do escopo do teste e o momento de aplicar estes testes é muito importante.
@@ -24,7 +25,7 @@ O escopo do teste indica o que é de interesse testar, que pode ser desde o cód
 
 Estas fases estão mais visíveis na **Figura 1**, que exemplifica como elas podem ser encontradas em um processo de software.
 
- ![Figura Modelo V ](https://arquivo.devmedia.com.br/REVISTAS/es/imagens/72/8/1.png) <center>**Figura 1**. Modelo “V” (Fases do Desenvolvimento X Fases dos Testes)</center> <center>Fonte: Devmedia</center>
+ ![Figura 1 Modelo V ](https://arquivo.devmedia.com.br/REVISTAS/es/imagens/72/8/1.png) <center>**Figura 1**. Modelo “V” (Fases do Desenvolvimento X Fases dos Testes)</center> <center>Fonte: Devmedia</center>
 
 ## **Características**
 
@@ -54,26 +55,67 @@ Estas fases estão mais visíveis na **Figura 1**, que exemplifica como elas pod
 - Dificuldade para o cliente poder especificar os requisitos explicitamente;
 - Se alguma mudança acontecer no meio do caminho, em seguida, os documentos de testes e analises, juntamente com os documentos de requisitos deverão ser atualizados;
 
+## **Quando usar o modelo V:**
+
+- O modelo em forma de V deve ser usado em projetos onde as exigências são claramente definidos e estabelecidos.
+
+- O modelo em forma de V deve ser escolhido quando há recursos técnicos disponíveis (Especialistas, Softwares e Laboratórios) e com conhecimentos técnicos necessários para a realização (Processos e Procedimentos).
+
+- Alta confiança nos processos de verificação e validação é necessário para escolher o modelo de abordagem em forma de V. Uma vez que, os protótipos são produzidos, pois simulações e analises virtuais devem ser aplicadas extensivamente no lado esquerdo do V. 
+- Os testes físicos nos níveis de componentes e sistemas reduzem o risco envolvido na resposta às expectativas dos clientes durante a fase de teste de desempenho.
+
+
 ## **Etapas**
+
+- Análise das necessidades e viabilidade;
+- Especificação do *software*;
+- Concepção: arquitetura; 
+- Concepção: detalhamento;
+- Codificação;
+- Teste individual;
+- Teste de integração;
+- Teste de validação;
+- Receita.
+
+## **As várias fases do modelo-V, segue:**
+
+Os **Requisitos** como BRS (***Business Requirements Specifications***) e SRS (***Sistem Requirements Specifications***) iniciam o ciclo de vida do modelo, assim como o "modelo em cascata" (***Waterfall model***). Mas, neste modelo antes que o desenvolvimento seja iniciado, um plano de **teste do sistema** (***DVP - Development Verification Plan***) deve ser criado. O plano de teste deve se concentrar em atender a funcionalidade especificada no levantamento dos requisitos. Conhecer as condições de uso da aplicação do produto (***Duty Cycle***) é essencial para o sucesso do projeto.  
+
+A **fase de projeto de alto nível (HLD)** centra-se na arquitetura e design do sistema. É proporcionar visão geral de solução, plataforma, sistemas, produtos e serviço / processo. Um plano de **teste de integração** é criado nesta fase, a fim de testar as peças de sistemas e softwares verificando a capacidade para trabalhar em conjunto.
+
+A **fase de projeto de baixo nível (LLD)** é o local onde os componentes são projetados e analisados. Ela define as características reais do projeto para cada um dos componentes do sistema. **Testes analíticos** e **simulações virtuais** dos componentes são criados e realizados nesta fase também.
+
+A **fase de execução** inicia-se com a construção dos protótipos (base do Modelo-V). Uma vez que eles estão concluídos, o caminho de execução continua pelo lado direito do V onde os planos de testes desenvolvidos anteriormente são agora colocadas em prática. Testando fisicamente a **durabilidade** dos componentes em laboratório/bancadas, posteriormente testando o comportamento dos sistemas e subsistemas no mesmo ambiente controlado e por fim, validando o desempenho do produto final em condições de uso (aplicação real) e/ou em clientes e parceiros (**confiabilidade**).
+
+![Figura 2 Modelo V ](https://www.guru99.com/images/6-2015/052715_0904_GuidetoSDLC3.png) <center>**Figura 2**. Diagrama do Modelo V</center> <center>Fonte: guru99</center>
+
 
 ## **Referências Bibliográficas**
 
 1. https://pt.wikipedia.org/wiki/Modelo_V
 
-2. **FRANCO, RICARDO, 2013.**  Steps for requirements writing; 
+2. https://pt.wikipedia.org/wiki/Modelo_em_cascata
+
+3. https://pt.wikipedia.org/wiki/Engenharia_de_Sistemas
+   
+4. **FRANCO, RICARDO, 2013.**  Steps for requirements writing; 
  
     [Link do Artigo](http://s3.amazonaws.com/host-article-assets/pmd/586fc52af7636eea018b4628/fulltext.pdf)
 
-3. **COLE, 2010.** Modelo V; 
+5. **COLE, 2010.** Modelo V; 
 
     [Link do Site](https://anielacole.wordpress.com/2010/09/28/modelo-em-v/)
    
-4. **MANTOVANI, 2015.** Quais são as vantagens e desvantagens do Modelo-V e quando usá-lo? 
+6. **MANTOVANI, 2015.** Quais são as vantagens e desvantagens do Modelo-V e quando usá-lo? 
    
    [Link do Site](http://mariomantovani.blogspot.com/2015/06/quais-sao-as-vantagens-e-desvantagens.html)
 
-5. What is V-model- advantages, disadvantages and when to use it?
+7. What is V-model- advantages, disadvantages and when to use it?
    
     [Link do Site](http://tryqa.com/what-is-v-model-advantages-disadvantages-and-when-to-use-it/)
+
+8. What is V Model? Learn with a Case Study using SDLC & STLC.
+   
+   [Link do Site](https://www.guru99.com/software-testing-lifecycle.html)
 
 

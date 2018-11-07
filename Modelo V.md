@@ -1,15 +1,17 @@
 
 ### Pesquisar sobre o modelo V:
 
-- [x] Definição 
-- [x] Características
-- [ ] Vantagens
-- [ ] Desvantagens
-- [ ] Etapas
+1. - [x] Definição 
+2. - [x] Características
+3. - [x] Vantagens
+4. - [x] Desvantagens
+5. - [ ] Etapas
+6. - [ ] Correção Ortográfica
+7. - [ ] Referências 
 
 # Modelo V de Desenvolvimento
 
-## **Definifição**
+## **Definição**
 
 O **Modelo V** é um modelo conceitual de Engenharia de Sistemas/Desenvolvimento de Produto visto como melhoria ao problema de reatividade do [**modelo em cascata**](https://pt.wikipedia.org/wiki/Modelo_em_cascata). Ele permite que, durante a integração de um sistema em seus diversos níveis, os testes sejam feitos contra os próprios requisitos do componente/interface que está sendo testado(a), em contraste com modelos anteriores onde o componente era testado contra a especificação do componente/interface. Notar a diferença entre requisito e especificação.
 

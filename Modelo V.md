@@ -7,7 +7,11 @@
 4. - [x] Desvantagens
 5. - [x] Etapas
 6. - [x] Correção Ortográfica
+<<<<<<< HEAD
 7. - [x] Referências 
+=======
+7. - [ ] Referências 
+>>>>>>> aed1cece0c05572b8e8fd0e07e3c99fdd90dfd20
 
 # Modelo V de Desenvolvimento
 
@@ -92,6 +96,7 @@ A **fase de execução** inicia-se com a construção dos protótipos (base do M
 
 ## **Referências Bibliográficas**
 
+<<<<<<< HEAD
 1.	**Wikipédia**, 2018.
 Disponível em: <<https://pt.wikipedia.org/wiki/Modelo_V#cite_note-2>>. Acesso em: 07 nov. 2018.
 
@@ -112,3 +117,32 @@ Disponível em: <<https://pt.wikipedia.org/wiki/Engenharia_de_Sistemas>>. Acesso
 
 8. **Guru99**, 2018. What is V Model? Learn with a Case Study using SDLC & STLC. 
 Disponível em:<<https://www.guru99.com/software-testing-lifecycle.html)>> Acesso em: 07 nov. 2018.
+=======
+1. https://pt.wikipedia.org/wiki/Modelo_V
+
+2. https://pt.wikipedia.org/wiki/Modelo_em_cascata
+
+3. https://pt.wikipedia.org/wiki/Engenharia_de_Sistemas
+   
+4. **FRANCO, RICARDO, 2013.**  Steps for requirements writing; 
+ 
+    [Link do Artigo](http://s3.amazonaws.com/host-article-assets/pmd/586fc52af7636eea018b4628/fulltext.pdf)
+
+5. **COLE, 2010.** Modelo V; 
+
+    [Link do Site](https://anielacole.wordpress.com/2010/09/28/modelo-em-v/)
+   
+6. **MANTOVANI, 2015.** Quais são as vantagens e desvantagens do Modelo-V e quando usá-lo? 
+   
+   [Link do Site](http://mariomantovani.blogspot.com/2015/06/quais-sao-as-vantagens-e-desvantagens.html)
+
+7. What is V-model- advantages, disadvantages and when to use it?
+   
+    [Link do Site](http://tryqa.com/what-is-v-model-advantages-disadvantages-and-when-to-use-it/)
+
+8. What is V Model? Learn with a Case Study using SDLC & STLC.
+   
+   [Link do Site](https://www.guru99.com/software-testing-lifecycle.html)
+
+
+>>>>>>> aed1cece0c05572b8e8fd0e07e3c99fdd90dfd20

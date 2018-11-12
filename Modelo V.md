@@ -99,16 +99,12 @@ Disponível em: <<https://pt.wikipedia.org/wiki/Engenharia_de_Sistemas>>. Acesso
 6. MANTOVANI, M. **Quais são as vantagens e desvantagens do Modelo-V e quando usá-lo?** 2015. Disponível em:
    <<http://mariomantovani.blogspot.com/2015/06/quais-sao-as-vantagens-e-desvantagens.html>>. Acesso em: 07 nov. 2018.
    
-7. **Tryqa**, 2013. What is V-model- advantages, disadvantages and when to use it? Disponível em: <<http://tryqa.com/what-is-v-model-advantages-disadvantages-and-when-to-use-it/>>. Acesso em: 03 nov. 2018
+7. **Tryqa**, 2013. What is V-model- advantages, disadvantages and when to use it? Disponível em: <<http://tryqa.com/what-is-v-model-advantages-disadvantages-and-when-to-use-it/>>. Acesso em: 03 nov. 2018.
 
 8. **Guru99**, 2018. What is V Model? Learn with a Case Study using SDLC & STLC. 
 Disponível em:<<https://www.guru99.com/software-testing-lifecycle.html)>> Acesso em: 07 nov. 2018.
 
-9. What is V-model- advantages, disadvantages and when to use it?
-   
-    [Link do Site](http://tryqa.com/what-is-v-model-advantages-disadvantages-and-when-to-use-it/)
+9. What is V-model- advantages, disadvantages and when to use it. Disponível em: <<http://tryqa.com/what-is-v-model-advantages-disadvantages-and-when-to-use-it/>> Acesso em: 07 nov. 2018.
 
-10. What is V Model? Learn with a Case Study using SDLC & STLC.
-   
-   [Link do Site](https://www.guru99.com/software-testing-lifecycle.html)
+10. What is V Model? Learn with a Case Study using SDLC & STLC. Disponível em:<<https://www.guru99.com/software-testing-lifecycle.html>> Acesso em: 07 nov. 2018.
 

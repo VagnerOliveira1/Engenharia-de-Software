@@ -7,12 +7,16 @@ A forma como o protótipo será implementado altera de acordo com o resultado es
 
 A Prototipação é utilizada pode ser usada de forma simples como modelagem em papel ou de forma mais complexa utilizando ferramentas RAD(Rapid Application Development) e ferramentas para programação nesse contexto a valiação do usuário é eficiente otimizando o retorno para os desenvolvedores a fim de produzir o software desejado.
 
+<center><img src="http://jkolb.com.br/wp-content/uploads/2013/12/prototipagem.png"></center>
+<center>Figura 1: Modelo de Prototipagem.</center>
+<center>Fonte: PRESSMAN (2010).<c/enter>
+
 
 
 Quase na totalidade dos projetos, o primeiro protótipo desenvolvido será destruído parcialmente ou por completo, portanto deve existir um planejamento eficaz para que essa etapa seja previsto e a equipe tenha o controle para decidir corretamente pelo descarte ou aproveitamento do software.
  <p> Dessa forma, conseguimos minimizar os riscos, permitindo que o cliente valide e faça todos os testes antes da implantação.
 
- <img src=" https://arquivo.devmedia.com.br/artigos/Higor_Medeiros/processos_es/image002.gif">
+
 
 
 
@@ -21,14 +25,22 @@ Quase na totalidade dos projetos, o primeiro protótipo desenvolvido será destr
 
 <h4>As principais formas de desenvolvimento dos protótipos são:
 
- - Rascunhos e Wireframes   
-Protótipos iniciais rápidos de se desenvolver ou modificar, tem o objetivo de validar os requisitos e regras de negócios eficientemente. Wireframes são úteis para visualizar cenários, fluxos e processos. Estes protótipos podem ser feitos em protótipos de papel, em mockups ou sketchs.
+ - Rascunhos e Wireframes  
+  Um wireframe tem como característica ser criado em um tempo mínimo. O maior tempo gasto na criação dos wireframes é na comunicação entre a equipe de desenvolvimento e o cliente para definição dos requisitos.
+  Não têm design bem formulado são como um rascunho do design
+ possuindo as partes significativas do projeto final. Os atributos são apresentados de forma simples
 
-- Protótipos de visualização
-Se dão através de programas de edição gráfica e tem maior apelo visual do produto sem exibir interações, são necessários em projetos que demandem de mais estética e usabilidade. Contudo, exigem mais tempo para implantar ajustes e melhorias ao projeto.
+ - Protótipo de visualização
+
+Focado na visualização do produto, é elaborado através de softwares de
+edição gráfica, é utilizado em projetos que necessitam de uma maior importancia visual e facilidade de uso. Porém para adicionar funções de otimização e melhorias é necessário mais tempo.
+
 
 - Protótipos de interação
-São representações mais fiéis e completas acerca do projeto e, tem em si a capacidade de demonstrar tanto as necessidades estéticas quanto os efeitos de interação, promovendo assim uma demonstração realista do projeto. É essencial para identificar problemas e oportunidades dentro dos requisitos, gerando menos riscos no desenvolvimento e lucro a longo prazo. Em contrapartida, demanda de uma equipe maior e de conhecimento técnico, além de despender muito tempo do desenvolvimento.
+
+Possui uma aproximação mais completa do projeto, mostra a parte visual e funcional, chegando perto do resultado esperado, dessa maneira os riscos são amenizados durante o desenvolvimento gerando um impacto  positivo financeiramente. Necessita de um grupo maior de profissionais
+pois necessita de um tempo maior de  trabalho.
+
 
 <h4>Vantagens da prototipação
 - Otimiza o diálogo entre o cliente e a equipe de desenvolvimento;
@@ -43,6 +55,14 @@ São representações mais fiéis e completas acerca do projeto e, tem em si a c
 
 
 O tipo de prototipação deve ser adequada para o projeto para que os processos sejam mais eficientes. A ideia através do protótipo pode ser apresentada, testada e validada, desse modo o cliente obtem a perspectiva do real sobre o processo de desenvolvimento do software. Sendo assim a prototipação vem demonstrando que é um método importante para o desenvolvimento ágil de sistemas.
+
+
+
+
+
+
+
+
 
 ### **REFERÊNCIAS** ###
 - DIOGO DE JESUS.Software para prototipação para interfaces de interfaces desktop.
@@ -59,3 +79,4 @@ O tipo de prototipação deve ser adequada para o projeto para que os processos 
 http://engenhariadesoftwareuesb.blogspot.com/2012/12/blog-post.html
 
 - http://www.zydax.com.br/blog/prototipacao-de-sistemas/
+- http://jkolb.com.br/prototipagem/

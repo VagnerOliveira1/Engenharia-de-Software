@@ -23,7 +23,7 @@ Quase na totalidade dos projetos, o primeiro protótipo desenvolvido será destr
 
  As fases da prototipação são definição dos objetivos, definição das aplicabilidade e avaliação. Existe a prototipação evolucionária e a descartável que se diferem em sua abordagem.A evolucionária possui o objetivo de produzir um protótipo que sofrerá melhorias até atingir o estágio final, já a prototipação descartável tem como objetivo demonstrar problemas a fim de descarta-los.
 
-<h4>As principais formas de desenvolvimento dos protótipos são:
+<h4>As principais formas de desenvolvimento dos protótipos são:<h4>
 
  - Rascunhos e Wireframes  
   Um wireframe tem como característica ser criado em um tempo mínimo. O maior tempo gasto na criação dos wireframes é na comunicação entre a equipe de desenvolvimento e o cliente para definição dos requisitos.

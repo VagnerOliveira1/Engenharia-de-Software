@@ -42,13 +42,13 @@ Possui uma aproximação mais completa do projeto, mostra a parte visual e funci
 pois necessita de um tempo maior de  trabalho.
 
 
-<h4>Vantagens da prototipação
+<h4>Vantagens da prototipação</h4>
 - Otimiza o diálogo entre o cliente e a equipe de desenvolvimento;
 - Exibe a falta de requisitos necessários;
 - Avalia a usabilidade do usúario;
 - Diminui o a reconstrução de projeto.
 
-<h4>Problemas da prototipação:
+<h4>Problemas da prototipação:</h4>
 - A compreenção do cliente sobre as mudanças necessárias e descartes para que as funcionalidades atendam corretamente os requisitos.
 
 - Após colocar rapidamente um protótipo em funcionamento o desenvolvedor não deve esquecer quais são as funcionalidades adequadas e quais devem ser descartadas.

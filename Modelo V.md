@@ -104,7 +104,4 @@ Disponível em: <<https://pt.wikipedia.org/wiki/Engenharia_de_Sistemas>>. Acesso
 8. **Guru99**, 2018. What is V Model? Learn with a Case Study using SDLC & STLC. 
 Disponível em:<<https://www.guru99.com/software-testing-lifecycle.html)>> Acesso em: 07 nov. 2018.
 
-9. What is V-model- advantages, disadvantages and when to use it. Disponível em: <<http://tryqa.com/what-is-v-model-advantages-disadvantages-and-when-to-use-it/>> Acesso em: 07 nov. 2018.
-
-10. What is V Model? Learn with a Case Study using SDLC & STLC. Disponível em:<<https://www.guru99.com/software-testing-lifecycle.html>> Acesso em: 07 nov. 2018.
 

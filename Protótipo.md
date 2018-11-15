@@ -8,8 +8,8 @@ A forma como o protótipo será implementado altera de acordo com o resultado es
 A Prototipação é utilizada pode ser usada de forma simples como modelagem em papel ou de forma mais complexa utilizando ferramentas RAD(Rapid Application Development) e ferramentas para programação nesse contexto a valiação do usuário é eficiente otimizando o retorno para os desenvolvedores a fim de produzir o software desejado.
 
 <center><img src="http://jkolb.com.br/wp-content/uploads/2013/12/prototipagem.png"></center><br>
-<center>Figura 1: Modelo de Prototipagem.</center><br>
-<center>Fonte: PRESSMAN (2010).</center><br>
+<p align="center>Figura 1: Modelo de Prototipagem.</p><br>
+<p align="center>Fonte: PRESSMAN (2010).</p><br>
 
 
 
@@ -40,12 +40,17 @@ pois necessita de um tempo maior de  trabalho.
 
 
 <h4>Vantagens da prototipação</h4>
-- Otimiza o diálogo entre o cliente e a equipe de desenvolvimento;<br>
+
+ - Otimiza o diálogo entre o cliente e a equipe de desenvolvimento;<br>
+
 - Exibe a falta de requisitos necessários;<br>
+
 - Avalia a usabilidade do usúario;<br>
+
 - Diminui o a reconstrução de projeto.<br>
 
 <h4>Problemas da prototipação:</h4>
+
 - A compreenção do cliente sobre as mudanças necessárias e descartes para que as funcionalidades atendam corretamente os requisitos.
 
 - Após colocar rapidamente um protótipo em funcionamento o desenvolvedor não deve esquecer quais são as funcionalidades adequadas e quais devem ser descartadas.

@@ -7,9 +7,11 @@ A forma como o protótipo será implementado altera de acordo com o resultado es
 
 A Prototipação é utilizada pode ser usada de forma simples como modelagem em papel ou de forma mais complexa utilizando ferramentas RAD(Rapid Application Development) e ferramentas para programação nesse contexto a valiação do usuário é eficiente otimizando o retorno para os desenvolvedores a fim de produzir o software desejado.
 
-<center><img src="http://jkolb.com.br/wp-content/uploads/2013/12/prototipagem.png"></center><br>
-<p align="center>Figura 1: Modelo de Prototipagem.</p><br>
-<p align="center>Fonte: PRESSMAN (2010).</p><br>
+<p align="center">
+        <img src="http://jkolb.com.br/wp-content/uploads/2013/12/prototipagem.png"><br>
+         Figura 1: Modelo de Prototipagem.<br>
+         Fonte: PRESSMAN (2010).<br>
+</p>
 
 
 
@@ -25,16 +27,12 @@ Quase na totalidade dos projetos, o primeiro protótipo desenvolvido será destr
  - Rascunhos e Wireframes  
   Um wireframe tem como característica ser criado em um tempo mínimo. O maior tempo gasto na criação dos wireframes é na comunicação entre a equipe de desenvolvimento e o cliente para definição dos requisitos.
   Não têm design bem formulado são como um rascunho do design
- possuindo as partes significativas do projeto final. Os atributos são apresentados de forma simples
-
- - Protótipo de visualização
-
+ possuindo as partes significativas do projeto final. Os atributos são apresentados de forma simples.<p>
+ - Protótipo de visualização<br>
 Focado na visualização do produto, é elaborado através de softwares de
-edição gráfica, é utilizado em projetos que necessitam de uma maior importancia visual e facilidade de uso. Porém para adicionar funções de otimização e melhorias é necessário mais tempo.
+edição gráfica, é utilizado em projetos que necessitam de uma maior importancia visual e facilidade de uso. Porém para adicionar funções de otimização e melhorias é necessário mais tempo.<p>
 
-
-- Protótipos de interação
-
+- Protótipos de interação<br>
 Possui uma aproximação mais completa do projeto, mostra a parte visual e funcional, chegando perto do resultado esperado, dessa maneira os riscos são amenizados durante o desenvolvimento gerando um impacto  positivo financeiramente. Necessita de um grupo maior de profissionais
 pois necessita de um tempo maior de  trabalho.
 
@@ -51,12 +49,12 @@ pois necessita de um tempo maior de  trabalho.
 
 <h4>Problemas da prototipação:</h4>
 
-- A compreenção do cliente sobre as mudanças necessárias e descartes para que as funcionalidades atendam corretamente os requisitos.
+- A difuculdade na compreenção do cliente sobre as mudanças necessárias e descartes para que as funcionalidades atendam corretamente os requisitos.
 
 - Após colocar rapidamente um protótipo em funcionamento o desenvolvedor não deve esquecer quais são as funcionalidades adequadas e quais devem ser descartadas.
 
 
-O tipo de prototipação deve ser adequada para o projeto para que os processos sejam mais eficientes. A ideia através do protótipo pode ser apresentada, testada e validada, desse modo o cliente obtem a perspectiva do real sobre o processo de desenvolvimento do software. Sendo assim a prototipação vem demonstrando que é um método importante para o desenvolvimento ágil de sistemas.
+O tipo de prototipação deve ser adequada para o projeto de maneira que os processos sejam mais eficientes. Apenas uma simples ideia através do protótipo pode ser apresentada, testada e validada, desse modo o cliente obtem a perspectiva real sobre o processo de desenvolvimento do software.Sendo assim a prototipação vem demonstrando que é um método importante para ser usado quando se trata de  desenvolvimento ágil de sistemas.
 
 
 

@@ -1,6 +1,6 @@
 # Introdução
 
-Segundo (Jesus, 2011)A prototipação torna eficiente a aproximação entre o cliente e a equipe de desenvolvimento, pois dessa forma quem solicita o software obtem inicialmente a visualização do produto desejado. Deste modo após o primeiro contato inicial a comunicação torna-se mais efetiva uma vez que os requisitos do usuário são expostos facilmente, demonstrando seu objetivo.
+Segundo (Jesus, 2011)A prototipação torna eficiente a aproximação entre o cliente e a equipe de desenvolvimento, pois dessa forma quem solicita o software obtem inicialmente a visualização do produto desejado. Deste modo após o primeiro contato inicial a comunicação torna-se mais efetiva uma vez que os requisitos do usuário são expostos facilmente, demonstrando seu objetivo.<p>
 Os protótipos construídos identificam os requisitos desejados, pois  uma vez que os usuários podem visualizar a interface o entendimento sobre as particularidades ficam mais claras, mesmo que essa não possuam funções que realizem tarefas específicas(Jesus, 2011).
 
 A forma como o protótipo será implementado altera de acordo com o resultado esperado ou trabalho realizado pelos desenvolvedores e organização. Podendo ter o foco em interfaces como em desenvolvimento mobile variando até terminais de autoatendimento ou ecommerces.

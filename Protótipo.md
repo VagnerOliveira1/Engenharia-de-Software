@@ -1,6 +1,6 @@
 # Introdução
 
-Segundo (Jesus, 2011)A prototipação torna eficiente a aproximação entre o cliente e a equipe de desenvolvimento, pois dessa forma quem solicita o software obtem inicialmente a visualização do produto desejado. Deste modo após o primeiro contato inicial a comunicação torna-se mais efetiva uma vez que os requisitos do usuário são expostos facilmente, demonstrando seu objetivo.<p>
+Segundo (Jesus, 2011)A prototipação torna eficiente a aproximação entre o cliente e a equipe de desenvolvimento, pois dessa forma quem solicita o software obtém inicialmente a visualização do produto desejado. Deste modo após o primeiro contato inicial a comunicação torna-se mais efetiva uma vez que os requisitos do usuário são expostos facilmente, demonstrando seu objetivo.<p>
 Os protótipos construídos identificam os requisitos desejados, pois  uma vez que os usuários podem visualizar a interface o entendimento sobre as particularidades ficam mais claras, mesmo que essa não possuam funções que realizem tarefas específicas(Jesus, 2011).
 
 A forma como o protótipo será implementado altera de acordo com o resultado esperado ou trabalho realizado pelos desenvolvedores e organização. Podendo ter o foco em interfaces como em desenvolvimento mobile variando até terminais de autoatendimento ou ecommerces.
@@ -15,12 +15,9 @@ A Prototipação é utilizada pode ser usada de forma simples como modelagem em 
 
 
 
-Quase na totalidade dos projetos, o primeiro protótipo desenvolvido será destruído parcialmente ou por completo, portanto deve existir um planejamento eficaz para que essa etapa seja previsto e a equipe tenha o controle para decidir corretamente pelo descarte ou aproveitamento do software.
- <p> Dessa forma, conseguimos minimizar os riscos, permitindo que o cliente valide e faça todos os testes antes da implantação.
+Quase na totalidade dos projetos, o primeiro protótipo desenvolvido será destruído parcialmente ou por completo, portanto deve existir um planejamento eficaz para que essa etapa seja previsto e a equipe tenha o controle para decidir corretamente pelo descarte ou aproveitamento do software. Dessa forma, conseguimos minimizar os riscos, permitindo que o cliente valide e faça todos os testes antes da implantação.
 
-
-
- As fases da prototipação são definição dos objetivos, definição das aplicabilidade e avaliação. Existe a prototipação evolucionária e a descartável que se diferem em sua abordagem.A evolucionária possui o objetivo de produzir um protótipo que sofrerá melhorias até atingir o estágio final, já a prototipação descartável tem como objetivo demonstrar problemas a fim de descarta-los.
+ As fases da prototipação são definição dos objetivos, definição das aplicabilidade e definição da avaliação. Existe a prototipação evolucionária e a descartável que se diferem em sua abordagem.A evolucionária possui o objetivo de produzir um protótipo que sofrerá melhorias até atingir o estágio final, já a prototipação descartável tem como objetivo demonstrar problemas a fim de descarta-los.
 
 <h4>As principais formas de desenvolvimento dos protótipos são:</h4>
 
@@ -54,7 +51,7 @@ pois necessita de um tempo maior de  trabalho.
 - Após colocar rapidamente um protótipo em funcionamento o desenvolvedor não deve esquecer quais são as funcionalidades adequadas e quais devem ser descartadas.
 
 
-O tipo de prototipação deve ser adequada para o projeto de maneira que os processos sejam mais eficientes. Apenas uma simples ideia através do protótipo pode ser apresentada, testada e validada, desse modo o cliente obtem a perspectiva real sobre o processo de desenvolvimento do software.Sendo assim a prototipação vem demonstrando que é um método importante para ser usado quando se trata de  desenvolvimento ágil de sistemas.
+O modelo de prototipação deve ser adequado para o projeto de maneira que possa fazer com que os processos sejam mais eficientes. Apenas uma simples ideia através do protótipo pode ser apresentada, testada e validada, desse modo o cliente obtém a perspectiva real sobre o processo de desenvolvimento do software.Sendo assim a prototipação vem demonstrando que é um método importante para ser usado quando se trata de  desenvolvimento ágil de sistemas.
 
 
 

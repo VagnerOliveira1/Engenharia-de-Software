@@ -57,6 +57,22 @@ Outras ações que também precisam ser levadas em consideração em todas as et
 
 Neste caso, a documentação é exigida para que uma etapa disponibilize os dados corretos para a próxima fase.  Enquanto que a administração desempenha o papel de efetuar a gestão e o controle da etapa.
 
+### Vantagens:
+* Torna o processo de desenvolvimento estruturado. Tem uma ordem sequencial de fases. Cada fase cai em cascata na próxima e a anterior necessita estar terminada antes do inicio da seguinte.
+* Todas as atividades identificadas nas fases do modelo são fundamentais e estão na ordem certa.
+
+### Desvantagens:
+
+* Não fornece feedback entre as fases e não permite a atualização ou redefinição nas fases anteriores.
+* Não suporta modificações nos requisitos.
+* Não prevê a manuntenção.
+* Não permite a reutilização.
+* É excessivamente sincronizado.
+* Se ocorre um atrasado todo o processo é afetado.
+* Lançamento do software inicial muito tarde.
+
+
+
 
 
 

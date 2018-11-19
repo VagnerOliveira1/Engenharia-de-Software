@@ -15,7 +15,10 @@ O escopo do teste indica o que é de interesse testar, que pode ser desde o cód
 
 Estas fases estão mais visíveis na **Figura 1**, que exemplifica como elas podem ser encontradas em um processo de software.
 
- ![Figura 1 Modelo V ](https://arquivo.devmedia.com.br/REVISTAS/es/imagens/72/8/1.png) <center>**Figura 1**. Modelo “V” (Fases do Desenvolvimento X Fases dos Testes)</center> <center>Fonte: Devmedia</center>
+
+<p align = "center">
+<img src="https://arquivo.devmedia.com.br/REVISTAS/es/imagens/72/8/1.png"><br> Figura 1: Modelo “V” (Fases do Desenvolvimento x Fases dos Testes<br> 
+Fonte: DEVMEDIA (2014).<br>
 
 ## **Características**
 
@@ -77,7 +80,9 @@ A **fase de projeto de baixo nível (LLD)** é o local onde os componentes são 
 
 A **fase de execução** inicia-se com a construção dos protótipos (base do Modelo V). Uma vez que eles estão concluídos, o caminho de execução continua pelo lado direito do V onde os planos de testes desenvolvidos anteriormente são agora colocadas em prática. Testando fisicamente a **durabilidade** dos componentes em laboratório/bancadas, posteriormente testando o comportamento dos sistemas e subsistemas no mesmo ambiente controlado e por fim, validando o desempenho do produto final em condições de uso (aplicação real) e/ou em clientes e parceiros (**confiabilidade**).
 
-![Figura 2 Modelo V ](https://www.guru99.com/images/6-2015/052715_0904_GuidetoSDLC3.png) <center>**Figura 2**. Diagrama do Modelo V</center> <center>Fonte: guru99</center>
+<p align = "center">
+<img src="https://www.guru99.com/images/6-2015/052715_0904_GuidetoSDLC3.png"><br> Figura 2: Diagrama do Modelo V<br> 
+Fonte: GURU99 (2018).<br>
 
 
 ## **Referências Bibliográficas**

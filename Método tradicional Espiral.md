@@ -25,7 +25,7 @@ Não faz distinção entre desenvolvimento e manutenção. |
 
 ![Foto Espiral](https://i.imgur.com/opucn99.jpg)
 
-
+ 
 Referências:
 
 [1] MATIAS1, Lorival Warmeling. AVALIAÇÃO DOS MÉTODOS DE DESENVOLVIMENTO TRADICIONAIS E ÁGEIS PARA APLICAÇÃO EM UMA EMPRESA DE SOFTWARE. Unibave - Centro Universitário Barriga Verde. Disponível em: <http://www.projedata.com.br/images/notificacoes/artigo_lorival_metodos_de_desenvolvimento.pdf>. Acesso em: 11 nov. 2018.

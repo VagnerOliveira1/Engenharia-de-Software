@@ -23,8 +23,8 @@ Algumas outras vantagens são:
 
 
 ## Referências
-PRESSMAN, Roger S. Engenharia de Software : 6 ed. São Paulo: McGraw Hill/Nacional, 2006.
+[1] PRESSMAN, Roger S. Engenharia de Software : 6 ed. São Paulo: McGraw Hill/Nacional, 2006.
 
-Modelos Incremental, Espiral e de Prototipação. Engenharia de Software UESB, 2012. Disponícel em: http://engenhariadesoftwareuesb.blogspot.com/2012/12/blog-post.html. Acesso em: 14 nov. 2018.
+[2] Modelos Incremental, Espiral e de Prototipação. Engenharia de Software UESB, 2012. Disponícel em: http://engenhariadesoftwareuesb.blogspot.com/2012/12/blog-post.html. Acesso em: 14 nov. 2018.
 
-Introdução aos Processos de Software e o Modelo Incremental e Evolucionário. DevMedia, 2013. Disponível em: https://www.devmedia.com.br/introducao-aos-processos-de-software-e-o-modelo-incremental-e-evolucionario/29839. Acesso: 14 nov. 2018.
+[3] Introdução aos Processos de Software e o Modelo Incremental e Evolucionário. DevMedia, 2013. Disponível em: https://www.devmedia.com.br/introducao-aos-processos-de-software-e-o-modelo-incremental-e-evolucionario/29839. Acesso: 14 nov. 2018.

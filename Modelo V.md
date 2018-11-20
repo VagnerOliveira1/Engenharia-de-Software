@@ -82,7 +82,7 @@ A **fase de execução** inicia-se com a construção dos protótipos (base do M
 
 <p align = "center">
 <img src="https://www.guru99.com/images/6-2015/052715_0904_GuidetoSDLC3.png"><br> Figura 2: Diagrama do Modelo V<br> 
-Fonte: GURU99 (2018).<br>
+Fonte: GURU99 (2018). <br> 
 
 
 ## **Referências Bibliográficas**
@@ -97,7 +97,7 @@ Disponível em: <<https://pt.wikipedia.org/wiki/Modelo_em_cascata>>. Acesso em: 
 1. WIKIPÉDIA, a enciclopédia livre. **Engenharia de Sistemas**, 16 nov. 2018. 
 Disponível em: <<https://pt.wikipedia.org/wiki/Engenharia_de_Sistemas>>. Acesso em: 07 nov. 2018.
 
-4. FRANCO, R. **Steps for requirements writing**, v. 10, n. 2, p.114, 2012. Disponível em: <<http://s3.amazonaws.com/host-article-assets/pmd/586fc52af7636eea018b4628/fulltext.pdf>>
+4. FRANCO, R. **Steps for requirements writing**, v. 10, n. 2, p.114, dez. 2012. Disponível em: <<http://s3.amazonaws.com/host-article-assets/pmd/586fc52af7636eea018b4628/fulltext.pdf>>
 
 5. COLE, A. **Qualidade Em Foco**, 2010. Disponível em: <<https://anielacole.wordpress.com/2010/09/28/modelo-em-v/>>. Acesso em: 07 nov. 2018.
    
@@ -106,6 +106,6 @@ Disponível em: <<https://pt.wikipedia.org/wiki/Engenharia_de_Sistemas>>. Acesso
 7. TRYQA, 2013. **What is V-model- advantages, disadvantages and when to use it?** Disponível em: <<http://tryqa.com/what-is-v-model-advantages-disadvantages-and-when-to-use-it/>>. Acesso em: 03 nov. 2018.
 
 8. GURU99, 2018. **What is V Model? Learn with a Case Study using SDLC & STLC.**
-Disponível em: <<https://www.guru99.com/software-testing-lifecycle.html)>> Acesso em: 07 nov. 2018.
+Disponível em: <<https://www.guru99.com/software-testing-lifecycle.html>> Acesso em: 07 nov. 2018.
 
 

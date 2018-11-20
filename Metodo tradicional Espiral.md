@@ -16,15 +16,30 @@ Vantagens | Desvantagens
 ------------ | -------------
 Estimativas tornam-se mais realísticas | Muita ênfase a parte funcional
 Mais versátil para lidar com mudanças | A avaliação dos riscos exige experiência
-Melhora o tempo de implementação do sistema | É bem aplicado somente a sistemas de larga escala
+<<<<<<< HEAD:Método tradicional Espiral.md
+Melhora o tempo de implementação do sistema | É bem aplicado somente a sistemas de larga escala 
 Fácil de decidir o quanto testar | O modelo é relativamente novo e não tem sido muito utilizado.
 Não faz distinção entre desenvolvimento e manutenção. |
 
+=======
+Melhora o tempo de implementação do sistema | É bem aplicado somente a sistemas de larga escala
+Fácil de decidir o quanto testar | O modelo é relativamente novo e não tem sido muito utilizado.
+Não faz distinção entre desenvolvimento e manutenção. |
+>>>>>>> master:Metodo tradicional Espiral.md
 
 
 
 ![Foto Espiral](https://i.imgur.com/opucn99.jpg)
 
+<<<<<<< HEAD:Método tradicional Espiral.md
+ 
+Referências:
+
+[1] MATIAS1, Lorival Warmeling. AVALIAÇÃO DOS MÉTODOS DE DESENVOLVIMENTO TRADICIONAIS E ÁGEIS PARA APLICAÇÃO EM UMA EMPRESA DE SOFTWARE. Unibave - Centro Universitário Barriga Verde. Disponível em: <http://www.projedata.com.br/images/notificacoes/artigo_lorival_metodos_de_desenvolvimento.pdf>. Acesso em: 11 nov. 2018.
+=======
+![Foto Espiral](https://i.imgur.com/opucn99.jpg)
+
 ## Referências Bibliográficas:
+>>>>>>> master:Metodo tradicional Espiral.md
 
 [2] HENRIQUE, Guilherme et al. Metodologias Clássicas: Espiral: Comparação geral das metodologias clássicas de desenvolvimento de software.. 2013. Disponível em: <http://metodologiasclassicas.blogspot.com/p/blog-page.html>. Acesso em: 20 nov. 2018.

@@ -62,19 +62,21 @@ O modelo de prototipação deve ser adequado para o projeto de maneira que possa
 
 
 ### **REFERÊNCIAS** ###
-- JESUS,D. Software para prototipação para interfaces de interfaces desktop.Rio Grande Do Sul, 2011. Dísponível em: https://www.univates.br/bdu/bitstream/10737/514/1/2011DiogodeJesus.pdf. Acesso em: 01 de Nov. de 2018.
 
-- RAMOS,J,L,C. Requisitos para ferramentas de avaliação em ambiemtes virtuias de ensino.Recife, 2006. Disponível em: https://www.researchgate.net/profile/Jorge_Ramos7/publication/236996360_REQUISITOS_PARA_FERRAMENTAS_DE_AVALIACAO_EM_AMBIENTES_VIRTUAIS_DE_ENSINO/links/0deec51acfa626b7a4000000/REQUISITOS-PARA-FERRAMENTAS-DE-AVALIACAO-EM-AMBIENTES-VIRTUAIS-DE-ENSINO.pdf. Acesso em: 01 de Nov. de 2018.
+[1] JESUS,D. Software para prototipação para interfaces de interfaces desktop.Rio Grande Do Sul, 2011. Dísponível em: https://www.univates.br/bdu/bitstream/10737/514/1/2011DiogodeJesus.pdf. Acesso em: 01 de Nov. de 2018.
 
-- VIANNA,M.; VIANNA,Y.; ADLER,I,K.; LUCENA,B.; RUSSO,B. Design
+[2] RAMOS,J,L,C. Requisitos para ferramentas de avaliação em ambiemtes virtuias de ensino.Recife, 2006. Disponível em: https://www.researchgate.net/profile/Jorge_Ramos7/publication/236996360_REQUISITOS_PARA_FERRAMENTAS_DE_AVALIACAO_EM_AMBIENTES_VIRTUAIS_DE_ENSINO/links/0deec51acfa626b7a4000000/REQUISITOS-PARA-FERRAMENTAS-DE-AVALIACAO-EM-AMBIENTES-VIRTUAIS-DE-ENSINO.pdf. Acesso em: 01 de Nov. de 2018.
+
+[3] VIANNA,M.; VIANNA,Y.; ADLER,I,K.; LUCENA,B.; RUSSO,B. Design
 Thinking - Inovação em negócios. 1 ed. Rio de Janeiro: MJV Press, 2012. 124p.
 
-- TEBET, I. A Prototipação no desenvolvimento de software. Disponível em: https://www.objective.com.br/a-prototipacao-no-desenvolvimento-de-software/. Acesso em: 02 de Nov. de 2018.
+[4] TEBET, I. A Prototipação no desenvolvimento de software. Disponível em: https://www.objective.com.br/a-prototipacao-no-desenvolvimento-de-software/. Acesso em: 02 de Nov. de 2018.
 
-- NASCIMENTO, T. A importância dos protótipos no desenvolvimento de sistemas. Disponível em: http://thiagonasc.com/desenvolvimento-web/a-importancia-dos-prototipos-no-desenvolvimento-de-sistemas.
+[5] NASCIMENTO, T. A importância dos protótipos no desenvolvimento de sistemas. Disponível em: http://thiagonasc.com/desenvolvimento-web/a-importancia-dos-prototipos-no-desenvolvimento-de-sistemas.
 Acesso em: 02 de Nov de 2018.
 
-- NEPOMUCENO, D. Modelos Incremental, Espiral e de Prototipação. Disponível em: http://engenhariadesoftwareuesb.blogspot.com/2012/12/blog-post.html. Acesso em: 02 de Nov de 2018.
+[6] NEPOMUCENO, D. Modelos Incremental, Espiral e de Prototipação. Disponível em: http://engenhariadesoftwareuesb.blogspot.com/2012/12/blog-post.html. Acesso em: 02 de Nov de 2018.
 
-- ZYDAX. Prototipação De Sistemas. Disponível em: http://www.zydax.com.br/blog/prototipacao-de-sistemas/. Acesso em: 11 de Nov. de 2018.
-- KOLB, J,J. Modelo Prototioagem. Disponível em: http://jkolb.com.br/prototipagem/. Acesso em: 11 de Nov. de 2018
+[7] ZYDAX. Prototipação De Sistemas. Disponível em: http://www.zydax.com.br/blog/prototipacao-de-sistemas/. Acesso em: 11 de Nov. de 2018.
+
+[8] KOLB, J,J. Modelo Prototioagem. Disponível em: http://jkolb.com.br/prototipagem/. Acesso em: 11 de Nov. de 2018

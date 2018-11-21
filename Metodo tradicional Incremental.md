@@ -6,6 +6,8 @@ Alguns projetos de software definem requisitos iniciais de software razoavelment
 
 Barry Boehm sugeriu, tendo em vista as limitações da abordagem tradicional, que o desenvolvimento de sistemas de informação poderia ser administrado numa série de incrementos. Assim, poderia haver uma série de ciclos de vida tradicionais para cada incremento.
 
+![Imgur](https://i.imgur.com/vlZ7kiu.png)
+
 ## O Método
 O Modelo Incremental foi desenvolvido através da combinação entre os modelos linear e prototipação. O desenvolvimento é dividido em etapas, denominadas “incrementos”, que produzirão incrementalmente o sistema, até a sua versão final.
 
@@ -21,6 +23,8 @@ Algumas outras vantagens são:
 - Se um grande erro é cometido, apenas o último incremento é descartado;
 - Reduzindo o tempo de desenvolvimento de um sistema, as chances de mudanças nos requisitos do usuário durante o desenvolvimento são menores.
 
+
+![Imgur](https://i.imgur.com/h4oveq2.png)
 
 ## Referências
 [1] PRESSMAN, Roger S. Engenharia de Software : 6 ed. São Paulo: McGraw Hill/Nacional, 2006.
